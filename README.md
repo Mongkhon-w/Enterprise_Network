@@ -1,10 +1,10 @@
-# Project 1: Enterprise Network Infrastructure Design & Implementation (Simulation)
+## Project 1: Enterprise Network Infrastructure Design & Implementation (Simulation)
 
 
 
-## - Objective: ออกแบบและจำลองระบบเครือข่ายสำหรับองค์กรขนาดกลางที่มี 3 แผนก (HR, IT, Sales) และ 1 สาขาย่อย
+### - Objective: ออกแบบและจำลองระบบเครือข่ายสำหรับองค์กรขนาดกลางที่มี 3 แผนก (HR, IT, Sales) และ 1 สาขาย่อย
 
-##- Technologies Used: Cisco Packet Tracer / GNS3, Cisco IOS, VLANs, OSPF, NAT, ACLs
+### - Technologies Used: Cisco Packet Tracer / GNS3, Cisco IOS, VLANs, OSPF, NAT, ACLs
 
 ### - Key Responsibilities:
 ```bash
@@ -16,5 +16,5 @@
 
    - Internet Connectivity: คอนฟิก Static NAT/PAT เพื่อให้อุปกรณ์ภายในเครือข่ายสามารถออกสู่อินเทอร์เน็ตได้โดยใช้ Public IP เพียงเบอร์เดียว
 ```
-## - Outcome: ระบบเครือข่ายสามารถทำงานได้อย่างสมบูรณ์ มีการจัดการ Traffic ที่เป็นระเบียบ และรองรับการขยายตัวในอนาคต (Scalability)
+### - Outcome: ระบบเครือข่ายสามารถทำงานได้อย่างสมบูรณ์ มีการจัดการ Traffic ที่เป็นระเบียบ และรองรับการขยายตัวในอนาคต (Scalability)
 
